@@ -25,8 +25,8 @@ body {
   justify-content: center;
 }
 .outer-container {
-  width: 75%;
-  height: 80%;
+  width: 80vw;
+  height: 80vh;
   background-image: url("/images/bg-intro-desktop.png");
   background-color: var(--color-primary-red);
   display: flex;
